@@ -9,7 +9,7 @@ function funDeclaration() {
 
 //  function expressions are not hoisted they remain where definded
 function funcExpression() {
-    console.log('iminside a funtion expression')
+    console.log('iminside a funtion expression');
 }
 
 //  so avoid confusion its best practice to use functions after they are defined
